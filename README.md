@@ -37,9 +37,10 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-<img src="https://cdn-icons.flaticon.com/png/128/652/premium/652175.png?token=exp=1634707447~hmac=055604fb6db2c0e9f97e079adf7a04c7" width="40 height="40>
-<img src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/laravel-128.png" width="40 height="40">
-<img src="https://cdn3.iconfinder.com/data/icons/monitors-with-programming-languages/512/cc-2-128.png" width="40" height="40">
+<img src="https://cdn-icons.flaticon.com/png/128/652/premium/652175.png?token=exp=1634707447~hmac=055604fb6db2c0e9f97e079adf7a04c7" width="40 height="40/>
+<img src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/laravel-128.png" width="40 height="40"/>
+<img src="https://cdn3.iconfinder.com/data/icons/monitors-with-programming-languages/512/cc-2-128.png" width="40" height="40"/>
+</p>
   </body>
 </html>
   
