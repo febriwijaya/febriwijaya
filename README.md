@@ -6,7 +6,7 @@
 <h3 align="center"> Hi there <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br></h3>
 
 <p align="center">
-  <b>I'm Febri Wijaya</b>, a self-motivated tech enthusiast and web enthusiast.
+  <b>I'm Febri Wijaya</b>, A self-motivated Tech Enthusiast and Web Enthusiast.
 </p>
 
 <!--img src="https://github.com/SP-XD/SP-XD/blob/main/sunrise_clickedbyme.jpeg?raw=true" width="1000px"-->
