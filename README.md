@@ -40,6 +40,7 @@
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png" alt="PHP" width="40" height="40"/>
 <img src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/laravel-128.png" width="40 height="40"/>
 <img src="https://cdn3.iconfinder.com/data/icons/monitors-with-programming-languages/512/cc-2-128.png" width="40" height="40"/>
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="40" height="40"/>                                                                                                                        
 </p>
   </body>
 </html>
